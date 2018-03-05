@@ -1,0 +1,51 @@
+body {
+  background-color: #292C44;
+}
+.app {
+  display: block;
+  width: 80%;
+  margin: auto;
+  background-color: #18CDCA;
+  border: 15px solid #FF5349;
+  border-radius: 15px;
+  font-weight: 700;
+  color: #292C44; }
+
+  .app a {
+    color: #F0F0F1;
+
+    text-decoration: none; }
+
+  .app a:hover {
+    color: #292C44; }
+
+  .app .contactsList {
+    margin: auto;
+     }
+
+  .app .contactItem {
+    text-align: center;
+    padding: 80px;
+  }
+
+  .app .contactImage {
+    margin: auto;
+    float: left;
+ }
+  .app .contactForm {
+    display: block;
+    margin: auto;
+     }
+
+    .app .contactForm input {
+      border: 10px solid #292C44;
+      border-radius: 20px;
+      padding: 15px;
+      margin: 30px;
+     }
+
+    .app .contactForm button {
+      border: 10px solid #292C44;
+      border-radius: 20px;
+      padding: 15px;
+     }
